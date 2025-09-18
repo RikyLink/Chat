@@ -1,0 +1,5 @@
+{
+  "name": "Dev Assistant Chat",
+  "description": "An AI-powered chat application for developers to interact with an assistant, save and manage code snippets, and set reminders.",
+  "requestFramePermissions": []
+}
